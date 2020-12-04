@@ -1,7 +1,7 @@
-## Official website
+## Official Website
 
 [http://j.mp/jgalfaro](http://j.mp/jgalfaro)
 
-### Support or Contact
+### Contact
 
 [jgalfaro@ieee.org](mailto:jgalfaro@ieee.org)
